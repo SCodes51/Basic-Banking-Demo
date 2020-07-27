@@ -1,6 +1,6 @@
-import java.util.Scanner;
-
 // ----- Basic Banking Transactions Demo ----
+
+import java.util.Scanner;
 
 public class BankingDemo {
 	public static void main(String[] args) {
